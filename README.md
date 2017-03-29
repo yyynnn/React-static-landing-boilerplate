@@ -13,7 +13,7 @@ Hi there, dear verstalshik!
   - `PostCSS/CCSnext` - next-gen css spec
   - `Express with HMR middleware` - dev-server for HOT live-coding
 - **Optional**
-  - `nuka-carousel` - react carousel component
+  - `nuka-carousel` - react carousel component (to be displaced)
   - `rodal` - react modal component
   - `react-scroll` react robust smooth scroll, spy and etc.
   - `react-static-webpack-plugin` - react build-to-static plugin
