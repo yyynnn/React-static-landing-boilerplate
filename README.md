@@ -1,11 +1,11 @@
-**CBS BOILERPLATE**
+**RSLB BOILERPLATE**
 
 
 ### React/Router/Hot-Reload/Webpack/Express(nodemon,hmr)/Postcss/Bulma/Etc-Boilerplate for static website building process.
-
+Hi there, dear verstalshik!
 ---
 
-### Contains
+### Contents
 
 - **Tools**
   - `Webpack + Babel` - script bundling, es6+ transpiling, css/js/img minification
@@ -28,8 +28,8 @@
 1. Run `npm install` to install dependencies.
 
 2. Run `npm run start` to start the development server.
-   It should automatically open the client in your browser when ready.
+   Enter the "RS" command (nodemon) if you want to restart it.
 
-### .. and accomplish by building
+### .. and complete by building
 
-- Run `npm run build` for building.
+- Run `npm run build` for building. Look for generatet `/public` folder.
