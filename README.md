@@ -28,8 +28,13 @@ Hi there, dear verstalshik!
 1. Run `npm install` to install dependencies.
 
 2. Run `npm run start` to start the development server.
+
    Enter the "RS" command (nodemon) if you want to restart it.
+   
+   Devmode is also SPA-ready, just add some REDUX.
 
 ### .. and complete by building
 
-- Run `npm run build` for building. Look for generatet `/public` folder.
+1. Run `npm run build` for building. Look for generatet `/public` folder. 
+
+  As for now this command is for static builds only.
