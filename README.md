@@ -1,8 +1,8 @@
 **RSLB BOILERPLATE**
 
 
-### React/Router/Hot-Reload/Webpack/Express(nodemon,hmr)/Postcss/Bulma/Etc-Boilerplate for static website building process.
-Hi there, dear verstalshik!
+# React/Router/Hot-Reload/Webpack/Express(nodemon,hmr)/Postcss/Bulma/Etc-Boilerplate for static website building process.
+## Hi there, dear verstalshik!
 ---
 
 ### Contents
