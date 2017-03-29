@@ -1,4 +1,4 @@
-**RSLB BOILERPLATE**
+**React-to-static BOILERPLATE**
 
 
 # React/Router/Webpack/Express/HMR/Postcss/Bulma/Etc-Boilerplate for static website building process.
