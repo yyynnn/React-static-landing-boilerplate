@@ -1,0 +1,25 @@
+
+:root {
+  --white: #fff;
+  --black: #000;
+  --orange: #f8971d;
+  --blue: #004388;
+  --dGray: #282727;
+}
+
+body, html {
+  background-color: var(--white);
+  color: var(--dGray);
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 200ms ease-in-out;
+}
+
+a:hover {
+  text-decoration: none;
+  color: var(--orange);
+
+}
