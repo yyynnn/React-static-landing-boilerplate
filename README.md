@@ -37,4 +37,4 @@ Hi there, dear verstalshik!
 
 1. Run `npm run build` for building. Look for generatet `/public` folder. 
 
-  As for now this command is for static builds only.
+   As for now this command is for static builds only.
